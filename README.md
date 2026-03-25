@@ -60,6 +60,7 @@
 - [Anthropic Red Teaming Resources](https://www.anthropic.com/) – Tools and frameworks for systematic evaluations.
 - [LLM Jailbreak Datasets](https://github.com/topics/jailbreak-prompts) – Public sets of adversarial prompts for testing.
 - [PromptBench](https://github.com/microsoft/promptbench) – Benchmark for prompt injection and jailbreak robustness.
+- [PromptTrace](https://prompttrace.airedlab.com/) – Interactive AI security training platform with 7 attack labs, a 15-level Gauntlet, and real-time Context Trace for practicing prompt injection, defense bypass, and tool abuse against real LLMs.
 
 ## Privacy-Preserving AI
 
