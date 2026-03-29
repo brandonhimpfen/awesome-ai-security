@@ -72,6 +72,7 @@
 
 ## Evaluation & Benchmarks
 
+- [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) – Internal Safety Collapse: jailbreaks any frontier LLM in pass@3 via normal task completion. No adversarial prompting needed. [[Paper](https://arxiv.org/abs/2603.23509)]
 - [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of model safety and robustness.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Benchmark suite for robust classification models.
 - [HarmBench](https://github.com/centerforaisafety/HarmBench) – Safety and harm classification benchmark for AI systems.
