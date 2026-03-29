@@ -72,13 +72,13 @@
 
 ## Evaluation & Benchmarks
 
-- [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) – Internal Safety Collapse: jailbreaks any frontier LLM in pass@3 via normal task completion. No adversarial prompting needed. [[Paper](https://arxiv.org/abs/2603.23509)]
-- [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of model safety and robustness.
-- [RobustBench](https://github.com/RobustBench/robustbench) – Benchmark suite for robust classification models.
 - [HarmBench](https://github.com/centerforaisafety/HarmBench) – Safety and harm classification benchmark for AI systems.
-- [SafetyBench](https://github.com/centerforaisafety/SafetyBench) – Suite of tests for model safety.
-- [OpenAI Evals](https://github.com/openai/evals) – Evaluation framework adaptable for adversarial and security testing.
+- [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of model safety and robustness.
+- [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) – Benchmark for evaluating LLM safety and alignment failures, including task-completion vs safety tradeoffs.
 - [MLSec Resources](https://github.com/topics/ml-security) – Community-driven lists of security-focused ML tools.
+- [OpenAI Evals](https://github.com/openai/evals) – Evaluation framework adaptable for adversarial and security testing.
+- [SafetyBench](https://github.com/centerforaisafety/SafetyBench) – Suite of tests for model safety.
+- [RobustBench](https://github.com/RobustBench/robustbench) – Benchmark suite for robust classification models.
 
 ## Learning Resources
 
