@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Security"
+abstract: "A curated list of tools, research papers, frameworks, datasets, attack and defense techniques, educational resources, and projects related to artificial intelligence security, adversarial machine learning, model protection, and secure AI systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-security"
+keywords:
+  - AI security
+  - adversarial machine learning
+  - cybersecurity
+  - model security
+  - artificial intelligence
+  - LLM security
+  - AI red teaming
+  - secure AI systems
+  - machine learning security
+  - awesome list
