@@ -91,6 +91,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Microsoft ML Security Research](https://www.microsoft.com/en-us/security/blog/) – Applied research on securing ML systems.
 - [OpenAI Security Research](https://openai.com/research) – Findings on model vulnerabilities and defenses.
 - [NIST AI Security Framework](https://www.nist.gov/) – Guidelines for secure and trustworthy AI.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) – Open database of real-world AI agent security incidents, each citing its sources and noting whether a victim was confirmed.
 
 ## Related Awesome Lists
 
