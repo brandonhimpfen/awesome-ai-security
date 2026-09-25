@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LLM Jailbreak Datasets](https://github.com/topics/jailbreak-prompts) – Public sets of adversarial prompts for testing.
 - [PromptBench](https://github.com/microsoft/promptbench) – Benchmark for prompt injection and jailbreak robustness.
 - [PromptTrace](https://prompttrace.airedlab.com/) – Interactive AI security training platform with hands-on labs for prompt injection, RAG poisoning, and LLM red teaming.
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) – Open-source (GPLv3) autonomous AI pentest CLI with a dedicated LLM-security agent for the OWASP LLM Top 10 (prompt injection, system-prompt leak, tool abuse, SSRF, secret exposure); 50 specialist agents, 140+ offensive tools over MCP, local-tokenization Privacy Gateway; runs on a local or cloud LLM.
 
 ## Privacy-Preserving AI
 
