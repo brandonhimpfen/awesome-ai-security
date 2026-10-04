@@ -77,6 +77,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Evaluation & Benchmarks
 
+- [AgentLeak](https://github.com/yagobski/agentleak) – Privacy-leakage benchmark for multi-agent LLM systems: 7 internal communication pathways, 1,000 scenarios; open-source testing toolkit (IEEE Access 2026).
 - [HarmBench](https://github.com/centerforaisafety/HarmBench) – Safety and harm classification benchmark for AI systems.
 - [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of model safety and robustness.
 - [ISC-Bench](https://github.com/wuyoscar/ISC-Bench) – Benchmark for evaluating LLM safety and alignment failures, including task-completion vs safety tradeoffs.
