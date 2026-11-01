@@ -54,11 +54,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 Resources for securing agents that use tools, install extensions, and act with application privileges.
 
-- [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/) – Risk taxonomy for malicious and vulnerable AI agent skills.
-- [Snyk Agent Scan](https://github.com/snyk/agent-scan) – Open-source scanner for agent skills, MCP servers, and agent configurations.
-- [Aguara](https://github.com/garagon/aguara) – Static analysis of agent skills and MCP configurations for injection, secret exposure, and malicious behaviors.
-- [HOL Guard](https://hol.org/guard) – Local-first open-source security tool that reviews supported agent actions and scans plugins and skills, using policy-based allow, block, and approval decisions.
-- [AgentGateway](https://github.com/agentgateway/agentgateway) – Gateway for AI agent connectivity with policy and access controls around tool communication.
+- [AgentGateway](https://github.com/agentgateway/agentgateway) – Open-source gateway providing authentication, authorization, and policy controls for agent, LLM, and MCP connectivity.
+- [Aguara](https://github.com/garagon/aguara) – Static analysis of agent instructions, skills, MCP configurations, and software supply-chain risks.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) – Local-first security layer for reviewing agent actions, managing approvals, and detecting risky tools, plugins, and skills.
+- [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/) – Risk taxonomy and mitigation guidance for malicious and vulnerable AI agent skills.
+- [Snyk Agent Scan](https://github.com/snyk/agent-scan) – Scanner for agent skills, MCP servers, and agent configurations.
 
 ## Data Security & Poisoning
 
