@@ -18,6 +18,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Adversarial Attacks](#adversarial-attacks)
 - [Defenses & Robustness](#defenses--robustness)
 - [Model Security](#model-security)
+- [Agent & Tool-Use Security](#agent--tool-use-security)
 - [Data Security & Poisoning](#data-security--poisoning)
 - [Red Teaming & Testing](#red-teaming--testing)
 - [Privacy-Preserving AI](#privacy-preserving-ai)
@@ -48,6 +49,16 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [AI Model Watermarking](https://github.com/topics/model-watermarking) – Tools and research on watermarking for model IP protection.
 - [Model Extraction Tooling](https://github.com/jayatheeswaran0/model-extraction) – Scripts and examples for simulating model extraction attacks.
 - [ONNX Runtime Security Guidelines](https://onnxruntime.ai/) – Secure inference recommendations for ONNX-based deployments.
+
+## Agent & Tool-Use Security
+
+Resources for securing agents that use tools, install extensions, and act with application privileges.
+
+- [OWASP Agentic Skills Top 10](https://owasp.org/www-project-agentic-skills-top-10/) – Risk taxonomy for malicious and vulnerable AI agent skills.
+- [Snyk Agent Scan](https://github.com/snyk/agent-scan) – Open-source scanner for agent skills, MCP servers, and agent configurations.
+- [Aguara](https://github.com/garagon/aguara) – Static analysis of agent skills and MCP configurations for injection, secret exposure, and malicious behaviors.
+- [HOL Guard](https://hol.org/guard) – Local-first open-source security tool that reviews supported agent actions and scans plugins and skills, using policy-based allow, block, and approval decisions.
+- [AgentGateway](https://github.com/agentgateway/agentgateway) – Gateway for AI agent connectivity with policy and access controls around tool communication.
 
 ## Data Security & Poisoning
 
